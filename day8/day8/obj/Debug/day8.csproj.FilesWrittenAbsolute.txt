@@ -1,0 +1,5 @@
+/home/osse/Downloads/adventOfCode/day8/day8/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/osse/Downloads/adventOfCode/day8/day8/bin/Debug/day8.exe.mdb
+/home/osse/Downloads/adventOfCode/day8/day8/bin/Debug/day8.exe
+/home/osse/Downloads/adventOfCode/day8/day8/obj/Debug/day8.exe
+/home/osse/Downloads/adventOfCode/day8/day8/obj/Debug/day8.exe.mdb
